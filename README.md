@@ -88,5 +88,10 @@ Welcome to my config file, I mainly did this following s4vitar's desktop tutoria
       ```shell
       sudo apt install rofi
       ```
+  6. Other requirements
+      + lsd
+      + batcat
+      + htop
+      + nvim
 
 </details>

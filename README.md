@@ -1,4 +1,10 @@
 # bspwm-dotfiles
+
+<!-- Screenshot -->
+<div align="center">
+    <img src="assets/initial.png" alt="Neofetch and Htop">
+</div>
+
 <h2></h2><br>
 
 <p align="center">

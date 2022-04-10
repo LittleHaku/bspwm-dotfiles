@@ -2,7 +2,7 @@
 
 <!-- Screenshot -->
 <div align="center">
-    <img src="assets/initial.png" alt="Neofetch and Htop">
+    <img src="/assets/initial.jpg" alt="Neofetch and Htop">
 </div>
 
 <h2></h2><br>
